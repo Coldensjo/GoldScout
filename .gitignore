@@ -1,0 +1,19 @@
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Backups and scratch
+*.bak
+*.orig
+*.tmp
+
+# Saved variables, in case a copy is dropped here for debugging
+SavedVariables/
+GoldScoutDB*.lua

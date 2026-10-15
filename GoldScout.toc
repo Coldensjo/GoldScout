@@ -1,0 +1,19 @@
+## Interface: 16001
+## Title: Gold Scout
+## Notes: Records characters, professions, recipes, bags, bank, mail and vendor stock for gold planning, plus levels, experience, kills, quests, skills and time played. /gs opens the overview.
+## Author: Siz
+## OptionalDeps: Auctionator, AuctionhouseSync
+## SavedVariables: GoldScoutDB
+
+GoldScout.lua
+AHTrack.lua
+Gather.lua
+Journal.lua
+Character.lua
+Scans.lua
+MarketData.lua
+Overview.lua
+Stats.lua
+Progress.lua
+Raid.lua
+Minimap.lua
